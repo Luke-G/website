@@ -3,6 +3,19 @@
   margin: 0;
 }
 
+.background {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  opacity: 0.4;
+}
+
+canvas {
+  pointer-events: none;
+}
+
 body {
   text-transform: lowercase;
   font-size: 28px;
@@ -14,6 +27,10 @@ body {
   width: 100vw;
   font-family: "Montserrat", sans-serif;
   font-style: italic;
+  background-image: url("background.svg");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 a {
