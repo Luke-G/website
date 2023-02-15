@@ -68,8 +68,15 @@ body {
 
 a {
   text-decoration: none;
-  font-weight: 900;
   color: unset;
+}
+
+.title a {
+  font-weight: 900;
+}
+
+.roles a {
+  font-weight: 700;
 }
 
 a:hover {
