@@ -52,7 +52,6 @@ canvas {
 }
 
 body {
-  text-transform: lowercase;
   font-size: 28px;
   display: flex;
   align-items: center;

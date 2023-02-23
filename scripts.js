@@ -1,8 +1,10 @@
 window.onload = function () {
-  Particles.init({
-    selector: ".background",
-    connectParticles: true,
-    responsive: false,
-    color: "#4a2ffe",
+  VANTA.CLOUDS({
+    el: "#your-element-selector",
+    mouseControls: true,
+    touchControls: true,
+    gyroControls: false,
+    minHeight: 200.0,
+    minWidth: 200.0,
   });
 };
