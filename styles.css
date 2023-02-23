@@ -21,23 +21,6 @@
   z-index: 1;
 }
 
-canvas {
-  pointer-events: none;
-}
-
-.wrapper-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-image: url("background.svg");
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  opacity: 0.8;
-}
-
 body {
   font-size: 28px;
   display: flex;
