@@ -1,6 +1,6 @@
 window.onload = function () {
   VANTA.CLOUDS({
-    el: "#your-element-selector",
+    el: "#background",
     mouseControls: true,
     touchControls: true,
     gyroControls: false,
