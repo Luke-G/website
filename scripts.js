@@ -5,6 +5,6 @@ VANTA.CLOUDS2({
   gyroControls: false,
   minHeight: 200.0,
   minWidth: 200.0,
-  scale: 0.5,
+  scale: 1.0,
   texturePath: "noise.png",
 });
