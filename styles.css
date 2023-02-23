@@ -3,7 +3,7 @@
   margin: 0;
 }
 
-.background {
+#background {
   position: absolute;
   display: block;
   top: 0;
