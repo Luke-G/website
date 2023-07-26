@@ -47,6 +47,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   text-shadow: 0.25px 0.25px black;
+  text-transform: lowercase;
 }
 
 a {
@@ -57,7 +58,6 @@ a {
 .title {
   text-shadow: 1.5px 1.5px black;
   font-weight: 500;
-  text-transform: lowercase;
 }
 
 .roles a {
