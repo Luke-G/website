@@ -50,7 +50,7 @@ a {
   color: unset;
 }
 
-.title a {
+.title {
   color: white;
   text-shadow: 1.5px 1.5px white;
   font-weight: 900;
