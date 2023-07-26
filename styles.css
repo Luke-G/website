@@ -53,7 +53,8 @@ a {
 .title {
   color: white;
   text-shadow: 1.5px 1.5px black;
-  font-weight: 900;
+  font-weight: 500;
+  text-transform: lowercase;
 }
 
 .roles a {
