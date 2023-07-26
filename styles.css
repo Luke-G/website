@@ -51,6 +51,8 @@ a {
 }
 
 .title a {
+  color: white;
+  text-shadow: 1.5px 1.5px white;
   font-weight: 900;
 }
 
@@ -72,5 +74,7 @@ a:hover {
 }
 
 .links a {
+  color: white;
+  text-shadow: 1.5px 1.5px black;
   padding: 0.3em 0.15em;
 }
