@@ -3,6 +3,10 @@
   margin: 0;
 }
 
+ul {
+  list-style-type: circle;
+}
+
 #background {
   position: absolute;
   display: block;
