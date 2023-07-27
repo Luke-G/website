@@ -81,3 +81,18 @@ a:hover {
 .links a:hover {
   color: #4a2ffe;
 }
+
+span {
+  background-color: #fca311c2;
+  border-radius: 28px;
+  padding: 0.4em;
+  font-size: 0.5em;
+  margin-right: 1em;
+  color: black;
+  font-weight: 400;
+}
+
+li {
+  display: flex;
+  align-items: center;
+}
