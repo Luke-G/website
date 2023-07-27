@@ -10,7 +10,7 @@ ul {
 #background {
   position: absolute;
   display: block;
-  background-image: url('img/background-image-sm.jpg');
+  background-image: url('img/web-background-min.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
