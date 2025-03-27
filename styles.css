@@ -111,7 +111,7 @@ li {
 @media (max-width: 900px) {
   body {
     align-items: flex-start;
-    margin-top: 5em;
+    margin-top: 2em;
   }
 
   .roles li {
@@ -123,5 +123,9 @@ li {
 
   span {
     margin-bottom: 1em;
+  }
+
+  .links {
+    padding: 1em;
   }
 }
