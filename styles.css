@@ -68,8 +68,12 @@ a {
   display: flex;
 }
 
-a:hover {
+a:hover, i:hover {
   color: orange;
+}
+
+a:active, i:active {
+  color: darkorange;
 }
 
 .links {
